@@ -5,7 +5,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
 public class SprigbootBuildingblocksApplication {
-
+//
 	public static void main(String[] args) {
 		SpringApplication.run(SprigbootBuildingblocksApplication.class, args);
 	}
